@@ -2,7 +2,7 @@
 
 ### Copy and Paste This section first if not running script directly ####
 Import-Module Microsoft.Online.Sharepoint.PowerShell -DisableNameChecking
-$AdminURL = "https://beehive3d-admin.sharepoint.us/"
+$AdminURL = "ADMIN URL"
 Connect-SPOService -URL $AdminURL
 #########################################################################
 
